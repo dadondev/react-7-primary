@@ -1,6 +1,6 @@
 function Content() {
   return (
-    <div className="px-4 py-7 lg:max-w-[calc(100%-150px)] ml-auto ">
+    <div className="px-4 py-7 lg:max-w-[calc(100%-0px)] lg:pl-[170px]">
       <div className=" border-b-[5px] border-b-[#d3d3d3] pb-6">
         <h1 className="text-3xl font-bold ">How to use it</h1>
         <p>
